@@ -2,6 +2,9 @@
 A fully functional advanced text editor in python with enhanced and amazing features
 This text editor mainly aims to help blind people who are not able to use simple notepad
 
+Presented this project work in IEEE. Awarded best paper:
+![best-pape-resize 12b852c73893b3153502](https://github.com/user-attachments/assets/6182daee-2ff4-4d71-8e4b-d5aa256f51a4)
+
 This Text Editor is a simple python tkinter based text editor application lashed with lots of advanced features including:
 * Font Alignment / Styling
 * Page Printing
